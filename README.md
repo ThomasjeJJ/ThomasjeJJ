@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ThomasjeJJ
+- 👋 Hi, I’m @Thomas Jansen
 - 📫 How to reach me thomas@ronmix.com
 
 <!---
